@@ -1,0 +1,11 @@
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\BussinessRuleEngine.exe
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\BussinessRuleEngine.deps.json
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\BussinessRuleEngine.runtimeconfig.json
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\BussinessRuleEngine.runtimeconfig.dev.json
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\BussinessRuleEngine.dll
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\BussinessRuleEngine.pdb
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BussinessRuleEngine.csprojAssemblyReference.cache
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BussinessRuleEngine.AssemblyInfoInputs.cache
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BussinessRuleEngine.AssemblyInfo.cs
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BussinessRuleEngine.dll
+C:\Users\kratika.sharma\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\BussinessRuleEngine.pdb
