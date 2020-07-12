@@ -5,7 +5,7 @@ using System.Web;
 
 namespace BussinessRuleEngine.RuleEngine
 {
-    public class PhysicalProductExtension : PhysicalProduct, IPhysicalProductExtension
+    public class PhysicalProductExtension : PhysicalProduct
     {
         public string GenerateCommsionPayment()
         {

@@ -82,9 +82,8 @@ namespace BussinessRuleEngine.RuleEngine
         private static string ProcessPhysicalProduct()
         {
             string _output;
-            IPhysicalProduct physicalProduct = new PhysicalProduct();
-            IPhysicalProductExtension physicalProductEx = new PhysicalProductExtension();
-            _output = physicalProduct.GeneratePackagingforShipping();
+            PhysicalProductExtension physicalProductEx = new PhysicalProductExtension();
+            _output = physicalProductEx.GeneratePackagingforShipping();
             _output += "," + physicalProductEx.GenerateCommsionPayment();
             return _output;
         }
